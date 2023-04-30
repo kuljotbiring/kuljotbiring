@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,nodejs,flask,express,linux,aws,git,mysql,bash,powershell&perline=3" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,js,html,css,nodejs,flask,express,linux,aws,git,mysql,bash,powershell" />
   </a>
 </p>
 <!---
