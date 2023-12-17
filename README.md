@@ -2,7 +2,7 @@
 - 👀 I’m interested in automating tasks in Python, Back-end/API development, Cloud Computing and Security
 - 🌱 I’m currently a Security Analyst and learning Computer Science at Oregon State University
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ksbiring1@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/kuljotbiring
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,html,css,nodejs,flask,express,linux,aws,git,mysql,bash,powershell)](https://skillicons.dev)
 <!---
