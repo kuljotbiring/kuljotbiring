@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuljotbiring
 - 👀 I’m interested in automating tasks in Python, Back-end/API development, Cloud Computing and Security
-- 🌱 I’m currently a Security Engineer and learning Computer Science at Oregon State University
+- 🌱 I’m currently a Security Engineer Intern and studying Computer Science at Oregon State University
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/kuljot-singh-security
 
